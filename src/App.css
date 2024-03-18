@@ -1,0 +1,23 @@
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient( #317eaa, #21336b);
+}
+
+.parentContainer{
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  padding: 4rem 2rem;
+  background-color: rgb(38, 38, 42);
+  border-radius: 1rem;
+}
